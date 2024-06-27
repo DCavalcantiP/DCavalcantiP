@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DCavalcantiP
-- 👀 I’m interested in: HTML, CSS, JavaScript
-- 🌱 I’m currently learning: HTML
+- 👀 I’m interested in: HTML, CSS, JavaScript, Python
+- 🌱 I’m currently learning: Python
 - 💞️ I’m looking to collaborate: on moment nothing.
 - 📫 How to reach me: (81) 9 7317-4900
 
